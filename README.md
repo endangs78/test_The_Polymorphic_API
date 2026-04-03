@@ -174,16 +174,6 @@ Contoh response error:
 
 ---
 
-## ▶️ How to Run
-
-```bash
-git clone https://github.com/your-username/finance-api.git
-cd finance-api
-mvn spring-boot:run
-```
-
----
-
 ## 👩‍💻 Author
 
 **Endang Suwarni**
