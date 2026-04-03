@@ -21,7 +21,6 @@ REST API berbasis Spring Boot untuk mengintegrasikan data kurs mata uang dari Fr
 * Java 17
 * Spring Boot
 * Spring WebFlux (WebClient)
-* JUnit 5 & Mockito
 * Lombok
 * PostgreSQL (optional)
 
